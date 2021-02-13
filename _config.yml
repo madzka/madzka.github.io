@@ -1,15 +1,15 @@
-name: Komunikacja Techniczna, Akademia Finansów i Biznesu Vistula
-title: Morris Mini Owner's Manual
+name: Madzka
+title: Documentation test
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
-remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
+remote_theme: Madzka/just-the-docs
 
-color_scheme: vistula
+color_scheme: dark
 
 # logo: "/assets/images/Morris_badge.png"
 
 aux_links:
   "Source repository on GitHub":
-    - "//github.com/KomunikacjaTechnicznaVistula/komunikacjatechnicznavistula.github.io"
+    - "//github.com/madzka/madzka.github.io"
 
 back_to_top: true
 back_to_top_text: "Back to top"
