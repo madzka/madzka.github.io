@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Visual Studio Code Installation
 nav_order: 3
 description: GitHub - documentation and publishing
 permalink: /

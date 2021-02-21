@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title:  GitHub Private repository 
 nav_order: 4
 description: GitHub - documentation and publishing
 permalink: /

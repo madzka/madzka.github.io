@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Introduction
-nav_order: 1
+title: GitHub Pages Public Repository
+nav_order: 5
 description: GitHub - documentation and publishing
 permalink: /
 ---

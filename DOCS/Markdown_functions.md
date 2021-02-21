@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Markdown functions
 nav_order: 2
 description: GitHub - documentation and publishing
 permalink: /
