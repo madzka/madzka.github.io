@@ -1,9 +1,9 @@
 name: Magdalena Osak
-title: GitHub - documentation and publishing 
-description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
-remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
+title: GitHub - Documentation and Publishing 
+description: An example of technical documentation hosted on Github pages. 
+remote_theme: https://github.com/madzka/madzka.github.io
 
-color_scheme: vistula
+color_scheme: light
 
 
 
