@@ -1,3 +1,10 @@
+---
+layout: default
+title: Introduction
+nav_order: 2
+description: GitHub - documentation and publishing
+permalink: /
+---
 
 ![Alt Text for image](./images/markdown_logo.png)
 

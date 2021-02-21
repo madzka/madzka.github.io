@@ -1,3 +1,11 @@
+---
+layout: default
+title: Introduction
+nav_order: 6
+description: GitHub - documentation and publishing
+permalink: /
+---
+
 **INVITING COLLABORATORS TO A PRIVATE REPOSITORY** 
 
 1. Ask for the username of the person you want to invite as a collaborator. 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Introduction
+nav_order: 3
+description: GitHub - documentation and publishing
+permalink: /
+---
+
 # **How to Download and Install Visual Studio Code on Windows**
 Open web browser and go to https://code.visualstudio.com/. 
 Click on the blue button **download** located on the right and select the operating system. 
