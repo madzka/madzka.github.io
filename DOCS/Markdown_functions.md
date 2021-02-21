@@ -63,7 +63,7 @@ To get an italic text put a text line between * text * or _ text _.
 <!-- Example for Italic  -->
 *This is italic text*
 
-To create link copy the URL and paste in parentheses [titile](http://)
+To create link copy the URL and paste in parentheses [title](http://)
 <!-- Example for Links -->
 [Link to Markdown Guide](https://www.markdownguide.org/)
 
@@ -111,6 +111,7 @@ Numbered List uses numbers followed by period .
 To make Tables follow this rule
 
 <!-- Example for Tables -->
+
 | header 1    | header 2    |
 | ----------- | ----------- |
 | item 1      | item 2      |
