@@ -26,4 +26,4 @@ Select **Add a README file** and click on **Create repository**.
 
 You created your first repository and initialized it with a *README* file. 
 
-![Alt Text ](./images/screenshot_2.jpg)
+![Alt Text ](./images/Screenshot_2.jpg)
