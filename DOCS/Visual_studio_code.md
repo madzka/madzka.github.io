@@ -68,7 +68,7 @@ Find the extension you want to install. Select and click on **Install**.
 
 ![Alt Text for image](./images/instal.jpg)
 
-# Visual Studio Code - writing and preview options
+# **Visual Studio Code - writing and preview options**
 
 To be more productive with Visual Studio Code you find keyboard reference sheet below. 
 
