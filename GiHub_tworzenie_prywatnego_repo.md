@@ -1,6 +1,6 @@
 # **HOW TO CREATE A PRIVATE REPO** 
 
-To put your project up on your GitHub Enterprise Server instance, you'll need to create a repository for it to live in. 
+To put your project up on your GitHub Enterprise Server, you'll need to create a repository for it to live in. 
 
 Go to https://github.com/ and log in to your account. 
 

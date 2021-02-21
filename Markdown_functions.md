@@ -1,18 +1,41 @@
 
+![Alt Text for image](./images/markdown_logo.png)
+
+
 # **MARKDOWN - BASIC FUNCTIONS** 
 
 ## This is a quick reference to the basic functions of Markdown. ##
 
 Below you see the most important functions of Markdown Syntax with the examples. The green sentences shows comments which are not visible on the page. Comments are written in < !--text-- >. See the correct characters in Markdown source code.   
 
-<!-- Example for normal text -->
-*  This is a simple line 
+To start writing in Markdown you use simple plain text with one or two blank lines between them for example
 
+<!-- Example for normal text -->
+
+    This is a simple line  
+
+
+For a line break, add either a backslash \ or two blank spaces at the end of the line 
+
+This is a simple line. This is a simple line. \
+This is a simple line. 
+
+You can add simple title to document
 <!-- Example for title -->
 Title
 =====
 
+
 <!-- Here comes the TOC -->
+- [**MARKDOWN - BASIC FUNCTIONS**](#markdown---basic-functions)
+  - [This is a quick reference to the basic functions of Markdown.](#this-is-a-quick-reference-to-the-basic-functions-of-markdown)
+- [Title](#title)
+- [Header 1](#header-1)
+  - [Header 1.1](#header-11)
+- [Header 2](#header-2)
+          - [Header 6](#header-6)
+
+To create HEADER start a line with a hash # and space  
 - [**MARKDOWN - BASIC FUNCTIONS**](#markdown---basic-functions)
   - [This is a quick reference to the basic functions of Markdown.](#this-is-a-quick-reference-to-the-basic-functions-of-markdown)
 - [Title](#title)
