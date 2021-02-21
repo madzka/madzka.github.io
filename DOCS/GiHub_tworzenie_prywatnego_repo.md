@@ -2,8 +2,6 @@
 layout: default
 title:  GitHub Private repository 
 nav_order: 4
-description: GitHub - documentation and publishing
-permalink: /
 ---
 
 # **HOW TO CREATE A PRIVATE REPO** 

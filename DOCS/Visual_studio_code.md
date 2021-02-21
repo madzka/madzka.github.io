@@ -2,8 +2,6 @@
 layout: default
 title: Visual Studio Code Installation
 nav_order: 3
-description: GitHub - documentation and publishing
-permalink: /
 ---
 
 # **How to Download and Install Visual Studio Code on Windows**

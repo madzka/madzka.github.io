@@ -2,8 +2,6 @@
 layout: default
 title: Inviting collaborators to a private repository
 nav_order: 6
-description: GitHub - documentation and publishing
-permalink: /
 ---
 
 **INVITING COLLABORATORS TO A PRIVATE REPOSITORY** 
