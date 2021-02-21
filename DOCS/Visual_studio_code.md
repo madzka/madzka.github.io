@@ -8,42 +8,42 @@ nav_order: 3
 Open web browser and go to https://code.visualstudio.com/. 
 Click on the blue button **download** located on the right and select the operating system. 
 
-![Alt Text for image](./images/download.jpg) 
+![Alt Text for image](/assets/download.jpg) 
 
 Click on Windows to start download Visual Studio Code for Windows.
 
-![Alt Text for image](./images/vsc_installation.jpg) 
+![Alt Text for image](/assets/vsc_installation.jpg) 
 
 Visual Studio Code downloads automatically. Once it is downloaded,
  run the installer *VSCodeUserSetup-x64-1.53.2.exe*. 
  
 Select the language and click on **OK**.  
 
-![Alt Text for image](./images/select_language.jpg)
+![Alt Text for image](/assets/select_language.jpg)
 
 Accept the agreement and click on **Next**.
 
-![Alt Text for image](./images/instalacja.png) 
+![Alt Text for image](/assets/instalacja.png) 
 
 Select Destination Location. 
  
  If you would like to select a different folder, click **Browser** and change location then click **Next**.
 
-  ![Alt Text for image](./images/installation_3.png)
+  ![Alt Text for image](/assets/installation_3.png)
 
  In the following window, check **Add to PATH** and select **Create a desktop icon** so that it can be accessed from desktop and click on **Next**. 
 
-  ![Alt Text for image](./images/installation_5.png)
+  ![Alt Text for image](/assets/installation_5.png)
 
 Click **Install** to continue with installation. 
 
-![Alt Text for image](./images/installation_6.png)
+![Alt Text for image](/assets/installation_6.png)
 
 Finally, after installation completes, click on **Finish** button, and the Visual Studio Code gets open.
 
-  ![Alt Text for image](./images/installation_8.png)
+  ![Alt Text for image](/assets/installation_8.png)
 
-![Alt Text for image](./images/installation_9.png)
+![Alt Text for image](/assets/installation_9.png)
 
 
 # **Visual Studio Code Extensions** 
@@ -52,28 +52,28 @@ Finally, after installation completes, click on **Finish** button, and the Visua
 
 You can browse and install extensions from within VS Code. Bring up the Extensions view by clicking on the **Extensions icon** in the Activity Bar on the side of Visual Studio Code.
 
-![Alt Text for image](./images/extensions_view_icon.png)
+![Alt Text for image](/assets/extensions_view_icon.png)
 
 To install extensions for Visual Studio Code click on **Extension icon** and you see search box **Search Extensions in Marketplace**. 
 
-![Alt Text for image](./images/marketplace_2.jpg)
+![Alt Text for image](/assets/marketplace_2.jpg)
 
 You can run various Extensions view commands by clicking on the **Filter Extensions icon**. The command shows the most popular extensions, recently published extensions, recommended extensions and others.  
 
 
-![Alt Text for image](./images/popular.jpg)
+![Alt Text for image](/assets/popular.jpg)
 
 Find the extension you want to install. Select and click on **Install**. 
 
 
-![Alt Text for image](./images/instal.jpg)
+![Alt Text for image](/assets/instal.jpg)
 
 # **Visual Studio Code - writing and preview options**
 
 To be more productive with Visual Studio Code you find keyboard reference sheet below. 
 
 
-![Alt Text for image](./images/KeyboardReferenceSheet.png)
+![Alt Text for image](/assets/KeyboardReferenceSheet.png)
 
 Reference Sheet Description is available on https://code.visualstudio.com/docs/getstarted/tips-and-tricks. 
 

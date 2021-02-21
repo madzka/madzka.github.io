@@ -4,7 +4,7 @@ title: Markdown functions
 nav_order: 2
 ---
 
-![Alt Text for image](assets/markdown_logo.png)
+![Alt Text for image](/assets/markdown_logo.png)
 
 
 # **MARKDOWN - BASIC FUNCTIONS** 
@@ -70,7 +70,7 @@ To create link copy the URL and paste in parentheses [titile](http://)
 To get image start line with an exclamation point ! and square brackets [  ] then paste the picture path.  
 
 <!-- Example for Images -->
-![moon](assets/moon.jpg)
+![Alt Text](/assets/moon.jpg)
 
 
 <!-- Just text -->
