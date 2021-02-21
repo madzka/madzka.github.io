@@ -6,7 +6,7 @@ description: GitHub - documentation and publishing
 permalink: /
 ---
 
-![Alt Text](/assets/markdown_logo.png) ![Alt Text](/assets/github.png) ![Alt Text](/assets/images/vsc.png)  
+![Alt Text](/assets/markdown_logo.png) ![Alt Text](/assets/github.png) ![Alt Text](/assets/vsc.png)  
 
 
 # Introduction
