@@ -1,7 +1,7 @@
 name: Magdalena Osak
 title: GitHub - Documentation and Publishing 
 description: An example of technical documentation hosted on Github pages. 
-remote_theme: https://github.com/madzka/madzka.github.io
+remote_theme: madzka/just-the-docs
 
 color_scheme: light
 
