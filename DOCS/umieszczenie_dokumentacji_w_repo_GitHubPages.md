@@ -31,5 +31,5 @@ nav_order: 7
 
 10. Files uploaded. Go to github.com/yourname/yourname and scroll down to **Environemnts**. 
     
-11. Go to **Environments** and click **View Delpoyment**. Now you see your website with files. 
+11. Go to **Environments** and click **View Delpoyment**. Now you see your website with files.  
 
