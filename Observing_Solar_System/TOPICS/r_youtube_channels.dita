@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_youtube_channels">
+    <title>YouTube channels </title>
+    <shortdesc/>
+    <refbody>
+        <data>Here you have the best Astro channel on YouTube </data>
+        <example>
+            <p/>
+        </example>
+    </refbody>
+    <related-links>
+        <link href="https://www.youtube.com/c/JWAstronomy1/featured"/>
+    </related-links>
+</reference>

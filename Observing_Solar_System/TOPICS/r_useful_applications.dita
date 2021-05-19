@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_useful_applications">
+    <title>Useful applications</title>
+    <shortdesc><b>7 OF THE BEST STARGAZING APPS</b></shortdesc>
+    <refbody>
+        <example>
+            <ul id="ul_ftd_ft3_3pb">
+                <li><b>SkyView</b></li>
+                <li><b>Star Walk</b></li>
+                <li><b>Star Rover</b></li>
+                <li><b>Night Sky</b></li>
+                <li><b>Night Sky</b></li>
+                <li><b>Pocket Universe</b></li>
+                <li><b>NASA app</b></li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

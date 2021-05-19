@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_explore_the_night_sky">
+    <title>Explore the night sky</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Whether you’re spotting planets with the naked eye or finding galaxies with a
+                telescope, there are lots of ways you can take in the wonders of the universe from
+                the comfort of Earth.</p>
+            <p>It doesn’t take much skill or equipment to get started with stargazing or amateur
+                astronomy, and you can do it almost anywhere. Whether you use an app, binoculars,
+                telescope, or just your eyes, there is much to discover.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

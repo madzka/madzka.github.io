@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_useful_astroaccessories">
+    <title>Useful AstroAccessories</title>
+    <shortdesc><b>Best astronomy accessories </b></shortdesc>
+    <taskbody>
+        <context>
+            <p>This is a guide to the best astronomy accessories available in 2021.</p>
+            <p>Astronomy accessories can turn your telescope setup from a good, solid observing
+                station to the next level in practical astronomy.</p>
+            <ul id="ul_nvs_1m3_3pb">
+                <li><b>Meade wide-angle eyepiece set</b><p>These affordable eyepieces are a great
+                        buy for any beginner. Their generous 62° field of view allows you to take a
+                        better look at large night-sky objects. The set comes with a padded storage
+                        box to protect them when not in use.</p><p>
+                        <fig id="fig_f4z_243_3pb">
+                            <title>Meade wide angle eyepiece set</title>
+                            <image href="../IMAGES/Meade-wide-angle-eyepiece-set-7d0929f.jpg"
+                                width="200" height="200" id="image_g4z_243_3pb"/>
+                        </fig>
+                    </p></li>
+                <li><b>Push-to passive tracking</b><p>This device attaches to your telescope,
+                        allowing you to keep track of its position with a planetarium app, helping
+                        you find your way around the night sky. Currently only compatible with
+                        SkySafari.</p><p>
+                        <fig id="fig_sk1_h43_3pb">
+                            <title>Push to passive tracking</title>
+                            <image href="../IMAGES/Push-to-passive-tracking-5c46f85.jpg" width="200"
+                                height="200" id="image_tk1_h43_3pb"/>
+                        </fig>
+                    </p></li>
+                <li><b>Sega Toys Homestar – Original Home Planetarium - white version</b><p>Picture
+                        the sky sparkling with stars just above your head as you sit on the sofa.
+                        The Sega Toys Homestar Original Planetarium makes this dream come true.
+                        High-resolution image is created thanks to the use of a powerful and very
+                        bright 3-watt LED in the projector. The projector canopy is rotatable, so it
+                        allows you to recreate the image of the sky across the night and year. The
+                        set includes two removable solid star disks of the northern hemisphere,
+                        allowing for viewing the stars or the constellation map, depending on the
+                        needs and wishes of the user.</p><p>
+                        <fig id="fig_d5b_k43_3pb">
+                            <title>Original Home Planetarium</title>
+                            <image href="../IMAGES/sega_toys_original_white_tpl_1.jpg" width="200"
+                                height="200" id="image_e5b_k43_3pb"/>
+                        </fig>
+                    </p></li>
+            </ul>
+        </context>
+    </taskbody>
+</task>

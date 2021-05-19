@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_rotating_sky_map">
+    <title>Rotating sky map</title>
+    <shortdesc/>
+    <conbody>
+        <p>Necessary equipment for every sky observer. The <keyword>map </keyword>shows the
+            appearance of the sky at any time every day of the year. It contains stars visible to
+            the naked eye (up to 6.5 magnitudes) and over 150 most nebulous objects. The<keyword>
+                perimeter calendar</keyword> allows to synchronize the date with the observation
+            time, while the oval on the film overlay maps the horizon line, and the numbers - hours
+            in Central European time.</p>
+        <p>
+            <fig id="fig_hkr_fk3_3pb">
+                <title>Rotating sky map</title>
+                <image href="../IMAGES/mapa_obrotowa_tpl_front.jpg" width="300" height="300"
+                    id="image_ikr_fk3_3pb"/>
+            </fig>
+        </p>
+    </conbody>
+</concept>

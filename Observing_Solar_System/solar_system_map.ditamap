@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Solar System Map</title>
+    <topicref href="TOPICS/c_my_first_telescope.dita"/>
+    <topicref href="TOPICS/c_observing_planets.dita"/>
+    <topicref href="TOPICS/c_rotating_sky_map.dita"/>
+    <topicref href="TOPICS/r_links.dita"/>
+    <topicref href="TOPICS/r_useful_applications.dita"/>
+    <topicref href="TOPICS/r_youtube_channels.dita"/>
+    <topicref href="TOPICS/t_explore_the_night_sky.dita"/>
+    <topicref href="TOPICS/t_Useful_AstroAccessories.dita"/>
+    <topicref href="TOPICS/t_when_where_and_how_to_see_the_planets_in_2021.dita"/>
+</map>

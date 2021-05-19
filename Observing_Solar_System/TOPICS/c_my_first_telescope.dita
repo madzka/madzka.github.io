@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_my_first_telescope">
+    <title>My first telescope SkyWatcher</title>
+    <shortdesc/>
+    <conbody>
+        <p>SkyWatcher N-150/750 EQ3-2 telescope</p>
+        <p>The SkyWatcher 150/750 is a reflecting telescope of the Newton system with a mirror
+            diameter of 150 mm and a focal length of 750 mm. It allows to conduct very advanced
+            visual observations of planets and the Moon, showing a large amount of details on the
+            surfaces of these objects. Due to its construction, it is also recommended for observing
+            nebular objects. Under good observational conditions, it can reveal hundreds of nebulae,
+            galaxies and star clusters included in the Messier and NGC catalogs.</p>
+        <p>The telescope is equipped with a 2-inch focuser with a reduction of 1.25 inches, which
+            allows the use of any spectacles made in these standards.</p>
+        <fig id="fig_a53_bp3_3pb">
+            <title>SkyWatcher N150/750 EQ3-2</title>
+            <image href="../IMAGES/sk_n150750eq3-2_1.jpg" width="300" height="600"
+                id="image_p3x_fp3_3pb"/>
+        </fig>
+        <p><ph>Usage of SkyWatcher N150/750 EQ3-2</ph><fig id="fig_ztm_mp3_3pb">
+                <title>Usage</title>
+                <image href="../IMAGES/Usage.jpg" width="1300" height="210" id="image_kzm_tp3_3pb"/>
+            </fig></p>
+    </conbody>
+</concept>
